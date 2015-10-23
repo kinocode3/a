@@ -4,9 +4,8 @@
 //Youtubeの最初の動画指定
 src="https://www.youtube.com/embed/qUDaYSWVruw?
 
-playlist=
-
 //二つ目以降の動画を指定
+playlist=
 
 k_ijyIYur0w,
 
@@ -18,7 +17,7 @@ pfYJiFXHz58,
 //※見やすく改行してますが、実際は「src=~」以降、「pfYJiFXHz58,」（最後のプレイリスト動画）まで繋げて記述しないと読み込みません。
 
 
-//以下パラメータ
+//以下パラメータここからは改行OK
 //自動再生（したくない場合は消すか、0にする）
 
 &autoplay=1
